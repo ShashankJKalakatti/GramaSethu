@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_dot_yellow.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/dot_yellow.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-xhdpi_ic_launcher.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-xhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_damaged.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_damaged.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_item_alert.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/item_alert.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_circle_green.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/circle_green.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-xhdpi_ic_launcher_round.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-xhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_circle_yellow.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/circle_yellow.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_activity_main.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-xxxhdpi_ic_launcher.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-xxxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_warn_yellow.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_warn_yellow.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_item_bridge.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/item_bridge.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-mdpi_ic_launcher.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-mdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-xxxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-xxxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-xxhdpi_ic_launcher.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-xxhdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_dot_red.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/dot_red.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_fragment_alerts.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/fragment_alerts.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_open.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_open.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_ic_map.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/ic_map.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_ic_bridge.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/ic_bridge.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-mdpi_ic_launcher_round.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-mdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_dot_green.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/dot_green.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-xxhdpi_ic_launcher_round.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-xxhdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_activity_bridge_detail.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/activity_bridge_detail.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/color_nav_selector.xml.flat",
+        "source": "com.gramasethu.app-main-48:/color/nav_selector.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/raw_warning_beep.wav.flat",
+        "source": "com.gramasethu.app-main-48:/raw/warning_beep.wav"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_fragment_map.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/fragment_map.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_warn_red.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_warn_red.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_activity_splash.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_ic_bridge_logo.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/ic_bridge_logo.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_warning_red.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_warning_red.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_item_alert_bridge.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/item_alert_bridge.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_fragment_bridge_list.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/fragment_bridge_list.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_circle_red.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/circle_red.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.gramasethu.app-main-48:/mipmap-hdpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_submerged.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_submerged.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_ic_alert.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/ic_alert.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.gramasethu.app-main-48:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_circle_grey.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/circle_grey.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_dot_grey.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/dot_grey.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_unknown.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_unknown.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/drawable_bg_warning_yellow.xml.flat",
+        "source": "com.gramasethu.app-main-48:/drawable/bg_warning_yellow.xml"
+    },
+    {
+        "merged": "com.gramasethu.app-debug-46:/layout_activity_report.xml.flat",
+        "source": "com.gramasethu.app-main-48:/layout/activity_report.xml"
+    }
+]

@@ -1,0 +1,3 @@
+-keep class com.gramasethu.app.model.** { *; }
+-keep class com.google.firebase.** { *; }
+-keepattributes *Annotation*, Signature

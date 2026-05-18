@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:layout_width="match_parent" android:layout_height="wrap_content">
+        <androidx.appcompat.widget.Toolbar android:id="@+id/toolbar"
+            android:layout_width="match_parent" android:layout_height="?attr/actionBarSize"
+            android:background="@color/primary" app:titleTextColor="@color/white"/>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent" android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+            android:orientation="vertical" android:padding="16dp">
+
+            <TextView android:id="@+id/status_badge"
+                android:layout_width="match_parent" android:layout_height="72dp"
+                android:gravity="center" android:textColor="@color/white"
+                android:textSize="20sp" android:textStyle="bold"
+                android:background="@drawable/bg_open"/>
+
+            <androidx.cardview.widget.CardView android:id="@+id/warning_banner"
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="12dp" android:visibility="gone"
+                app:cardCornerRadius="8dp" app:cardElevation="2dp">
+                <TextView android:id="@+id/text_warning"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:padding="14dp" android:textSize="14sp" android:textStyle="bold"/>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="12dp" app:cardCornerRadius="8dp" app:cardElevation="2dp">
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="vertical" android:padding="16dp">
+                    <TextView android:id="@+id/text_village"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:textSize="16sp" android:textStyle="bold" android:textColor="@color/text_primary"/>
+                    <TextView android:id="@+id/text_district"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp" android:textSize="14sp" android:textColor="@color/text_secondary"/>
+                    <View android:layout_width="match_parent" android:layout_height="1dp"
+                        android:layout_marginTop="12dp" android:layout_marginBottom="12dp"
+                        android:background="@color/divider"/>
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:text="WATER LEVEL" android:textSize="11sp"
+                        android:textColor="@color/text_secondary" android:textAllCaps="true"/>
+                    <TextView android:id="@+id/text_water_level"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp" android:textSize="18sp"
+                        android:textStyle="bold" android:textColor="@color/water_blue"/>
+                    <ProgressBar android:id="@+id/water_bar"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="match_parent" android:layout_height="14dp"
+                        android:layout_marginTop="6dp" android:max="100"
+                        android:progressTint="@color/water_blue"/>
+                    <View android:layout_width="match_parent" android:layout_height="1dp"
+                        android:layout_marginTop="12dp" android:layout_marginBottom="12dp"
+                        android:background="@color/divider"/>
+                    <TextView android:id="@+id/text_freshness"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:textSize="13sp" android:textColor="@color/text_secondary"/>
+                    <TextView android:id="@+id/text_reporter"
+                        android:layout_width="wrap_content" android:layout_height="wrap_content"
+                        android:layout_marginTop="2dp" android:textSize="13sp"
+                        android:textColor="@color/text_secondary"/>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:layout_marginTop="12dp" app:cardBackgroundColor="#E8F5E9"
+                app:cardCornerRadius="8dp" app:cardElevation="2dp">
+                <TextView android:id="@+id/text_route"
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:padding="16dp" android:textSize="14sp" android:textColor="#1B5E20"/>
+            </androidx.cardview.widget.CardView>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_report"
+                android:layout_width="match_parent" android:layout_height="64dp"
+                android:layout_marginTop="20dp" android:layout_marginBottom="8dp"
+                android:text="📢  Report Current Status"
+                android:textSize="16sp" android:textStyle="bold"
+                app:backgroundTint="@color/primary"/>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

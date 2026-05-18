@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00897B</color>
+    <color name="alert_dmg_bg">#FFF8E1</color>
+    <color name="alert_sub_bg">#FFEBEE</color>
+    <color name="background">#F5F5F5</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="nav_selected">#1565C0</color>
+    <color name="nav_unselected">#9E9E9E</color>
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="status_damaged">#E65100</color>
+    <color name="status_open">#2E7D32</color>
+    <color name="status_submerged">#B71C1C</color>
+    <color name="status_unknown">#616161</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="warn_red_text">#B71C1C</color>
+    <color name="warn_yellow_text">#E65100</color>
+    <color name="water_blue">#0288D1</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Grama-Sethu</string>
+    <string name="gcm_defaultSenderId" translatable="false">177826766555</string>
+    <string name="google_api_key" translatable="false">AIzaSyD0T6wlA3HfXQ40BVWrTgYvRiiP8RWxN40</string>
+    <string name="google_app_id" translatable="false">1:177826766555:android:6ec90e38cedc1f909a76fe</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD0T6wlA3HfXQ40BVWrTgYvRiiP8RWxN40</string>
+    <string name="google_storage_bucket" translatable="false">grama-sethu.firebasestorage.app</string>
+    <string name="project_id" translatable="false">grama-sethu</string>
+    <style name="Theme.GramaSethu" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+    </style>
+    <style name="Theme.GramaSethu.Splash" parent="Theme.GramaSethu">
+        <item name="android:windowBackground">@color/primary_dark</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+    </style>
+</resources>

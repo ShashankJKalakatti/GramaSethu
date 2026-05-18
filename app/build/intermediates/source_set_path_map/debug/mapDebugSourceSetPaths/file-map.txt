@@ -1,0 +1,49 @@
+com.gramasethu.app-material-1.11.0-0 C:\Users\sanga\.gradle\caches\8.11.1\transforms\0ed655093f7326ea29aae56328863579\transformed\material-1.11.0\res
+com.gramasethu.app-emoji2-1.2.0-1 C:\Users\sanga\.gradle\caches\8.11.1\transforms\124535295845fe599330e5404d959ef0\transformed\emoji2-1.2.0\res
+com.gramasethu.app-startup-runtime-1.1.1-2 C:\Users\sanga\.gradle\caches\8.11.1\transforms\136f8016a5f84fd1c4885d6f4f0c67dc\transformed\startup-runtime-1.1.1\res
+com.gramasethu.app-transition-1.2.0-3 C:\Users\sanga\.gradle\caches\8.11.1\transforms\146b25cc252e116f4726b9ce912feec0\transformed\transition-1.2.0\res
+com.gramasethu.app-viewpager2-1.1.0-beta02-4 C:\Users\sanga\.gradle\caches\8.11.1\transforms\1865c1e69a5f7984379d1fc00aa6f232\transformed\viewpager2-1.1.0-beta02\res
+com.gramasethu.app-constraintlayout-2.1.4-5 C:\Users\sanga\.gradle\caches\8.11.1\transforms\1ad6a35d8da2319861d69e778ebf4706\transformed\constraintlayout-2.1.4\res
+com.gramasethu.app-emoji2-views-helper-1.2.0-6 C:\Users\sanga\.gradle\caches\8.11.1\transforms\1f987b8b27ab3d6b9e8262e1fc01843b\transformed\emoji2-views-helper-1.2.0\res
+com.gramasethu.app-profileinstaller-1.3.0-7 C:\Users\sanga\.gradle\caches\8.11.1\transforms\20fb058698672a051ae2a928fbb1b211\transformed\profileinstaller-1.3.0\res
+com.gramasethu.app-lifecycle-process-2.7.0-8 C:\Users\sanga\.gradle\caches\8.11.1\transforms\267121a73e64d286366cf887cc6c3865\transformed\lifecycle-process-2.7.0\res
+com.gramasethu.app-play-services-basement-18.1.0-9 C:\Users\sanga\.gradle\caches\8.11.1\transforms\278e3e047660e70a50fc76920693c18b\transformed\play-services-basement-18.1.0\res
+com.gramasethu.app-appcompat-1.6.1-10 C:\Users\sanga\.gradle\caches\8.11.1\transforms\44de121a94b605561a23137cbed9ce2f\transformed\appcompat-1.6.1\res
+com.gramasethu.app-activity-ktx-1.8.2-11 C:\Users\sanga\.gradle\caches\8.11.1\transforms\464aa0112e589c7dc4d68873363f55ad\transformed\activity-ktx-1.8.2\res
+com.gramasethu.app-lifecycle-runtime-ktx-2.7.0-12 C:\Users\sanga\.gradle\caches\8.11.1\transforms\4dc3cde482e74ec1811365fd56942e47\transformed\lifecycle-runtime-ktx-2.7.0\res
+com.gramasethu.app-fragment-1.6.2-13 C:\Users\sanga\.gradle\caches\8.11.1\transforms\578e1f5ea9e7dc84d8a1c0549f85f855\transformed\fragment-1.6.2\res
+com.gramasethu.app-firebase-common-20.4.2-14 C:\Users\sanga\.gradle\caches\8.11.1\transforms\5db27f9b3b531b8db45fafeec554a304\transformed\firebase-common-20.4.2\res
+com.gramasethu.app-osmdroid-android-6.1.18-15 C:\Users\sanga\.gradle\caches\8.11.1\transforms\6005ca720510ff582a1b4a1066203d6f\transformed\osmdroid-android-6.1.18\res
+com.gramasethu.app-lifecycle-viewmodel-savedstate-2.7.0-16 C:\Users\sanga\.gradle\caches\8.11.1\transforms\6cbc747e29cbabd96b85fb234a7ff194\transformed\lifecycle-viewmodel-savedstate-2.7.0\res
+com.gramasethu.app-lifecycle-livedata-core-ktx-2.7.0-17 C:\Users\sanga\.gradle\caches\8.11.1\transforms\6ee8167c9776289affc7aaef6e166908\transformed\lifecycle-livedata-core-ktx-2.7.0\res
+com.gramasethu.app-play-services-base-18.1.0-18 C:\Users\sanga\.gradle\caches\8.11.1\transforms\74a382ae27c810570a698bb6a515f510\transformed\play-services-base-18.1.0\res
+com.gramasethu.app-savedstate-ktx-1.2.1-19 C:\Users\sanga\.gradle\caches\8.11.1\transforms\74f0cde1bc1c580838c00dd633c8b867\transformed\savedstate-ktx-1.2.1\res
+com.gramasethu.app-browser-1.4.0-20 C:\Users\sanga\.gradle\caches\8.11.1\transforms\7a9b1f9e73bc812b41da113b848524bf\transformed\browser-1.4.0\res
+com.gramasethu.app-appcompat-resources-1.6.1-21 C:\Users\sanga\.gradle\caches\8.11.1\transforms\80cf1154d810f3034f2ad3d837bbd3b1\transformed\appcompat-resources-1.6.1\res
+com.gramasethu.app-core-runtime-2.2.0-22 C:\Users\sanga\.gradle\caches\8.11.1\transforms\87ab47946661e644ffe0a230c35eea0f\transformed\core-runtime-2.2.0\res
+com.gramasethu.app-core-1.12.0-23 C:\Users\sanga\.gradle\caches\8.11.1\transforms\8b87e315b4709c6fab34ffb68a98ab4e\transformed\core-1.12.0\res
+com.gramasethu.app-activity-1.8.2-24 C:\Users\sanga\.gradle\caches\8.11.1\transforms\8f29ef93eac1498124127e2ce0598e93\transformed\activity-1.8.2\res
+com.gramasethu.app-lifecycle-runtime-2.7.0-25 C:\Users\sanga\.gradle\caches\8.11.1\transforms\913c3d4141d176be0a80571ab49cae97\transformed\lifecycle-runtime-2.7.0\res
+com.gramasethu.app-customview-poolingcontainer-1.0.0-26 C:\Users\sanga\.gradle\caches\8.11.1\transforms\94595f9fb22807ed33c31fc7fa564d05\transformed\customview-poolingcontainer-1.0.0\res
+com.gramasethu.app-annotation-experimental-1.3.0-27 C:\Users\sanga\.gradle\caches\8.11.1\transforms\9b9f1302e86a953b388f6a36fea573d5\transformed\annotation-experimental-1.3.0\res
+com.gramasethu.app-drawerlayout-1.1.1-28 C:\Users\sanga\.gradle\caches\8.11.1\transforms\a673ddc2296ff4aaea5d8ceb783d5277\transformed\drawerlayout-1.1.1\res
+com.gramasethu.app-lifecycle-livedata-2.7.0-29 C:\Users\sanga\.gradle\caches\8.11.1\transforms\ae7695498a70eb966da16e44890ea470\transformed\lifecycle-livedata-2.7.0\res
+com.gramasethu.app-core-ktx-1.12.0-30 C:\Users\sanga\.gradle\caches\8.11.1\transforms\b45e3978663a60e619c924eab716991c\transformed\core-ktx-1.12.0\res
+com.gramasethu.app-lifecycle-viewmodel-2.7.0-31 C:\Users\sanga\.gradle\caches\8.11.1\transforms\b76b069b8061e0b1a55d8b72fa620f32\transformed\lifecycle-viewmodel-2.7.0\res
+com.gramasethu.app-lifecycle-viewmodel-ktx-2.7.0-32 C:\Users\sanga\.gradle\caches\8.11.1\transforms\bd6e2e211b31b33dcc0d9e7d90e23bdf\transformed\lifecycle-viewmodel-ktx-2.7.0\res
+com.gramasethu.app-recyclerview-1.3.2-33 C:\Users\sanga\.gradle\caches\8.11.1\transforms\c48516ed98b03d6944590dccfca9d03a\transformed\recyclerview-1.3.2\res
+com.gramasethu.app-lifecycle-livedata-ktx-2.7.0-34 C:\Users\sanga\.gradle\caches\8.11.1\transforms\c6dcee670549775b62337a3f751810b8\transformed\lifecycle-livedata-ktx-2.7.0\res
+com.gramasethu.app-coordinatorlayout-1.1.0-35 C:\Users\sanga\.gradle\caches\8.11.1\transforms\cff97c2c2018f8a3b5bfabefecaa3184\transformed\coordinatorlayout-1.1.0\res
+com.gramasethu.app-fragment-ktx-1.6.2-36 C:\Users\sanga\.gradle\caches\8.11.1\transforms\d12bd53113b49cb06f69ecbb29335830\transformed\fragment-ktx-1.6.2\res
+com.gramasethu.app-lifecycle-livedata-core-2.7.0-37 C:\Users\sanga\.gradle\caches\8.11.1\transforms\efdc4bcb69002bbbb05a41db6768adef\transformed\lifecycle-livedata-core-2.7.0\res
+com.gramasethu.app-firebase-messaging-23.4.0-38 C:\Users\sanga\.gradle\caches\8.11.1\transforms\f4356af0b95aea2a7863846fb4ff726e\transformed\firebase-messaging-23.4.0\res
+com.gramasethu.app-savedstate-1.2.1-39 C:\Users\sanga\.gradle\caches\8.11.1\transforms\fa5f42b7e055cc628367200c3f8b453f\transformed\savedstate-1.2.1\res
+com.gramasethu.app-cardview-1.0.0-40 C:\Users\sanga\.gradle\caches\8.11.1\transforms\ffd697ead7f8388d2a71798572d15da5\transformed\cardview-1.0.0\res
+com.gramasethu.app-pngs-41 D:\Grama Setu 96\GramaSethuKt\app\build\generated\res\pngs\debug
+com.gramasethu.app-res-42 D:\Grama Setu 96\GramaSethuKt\app\build\generated\res\processDebugGoogleServices
+com.gramasethu.app-resValues-43 D:\Grama Setu 96\GramaSethuKt\app\build\generated\res\resValues\debug
+com.gramasethu.app-packageDebugResources-44 D:\Grama Setu 96\GramaSethuKt\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.gramasethu.app-packageDebugResources-45 D:\Grama Setu 96\GramaSethuKt\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.gramasethu.app-debug-46 D:\Grama Setu 96\GramaSethuKt\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.gramasethu.app-debug-47 D:\Grama Setu 96\GramaSethuKt\app\src\debug\res
+com.gramasethu.app-main-48 D:\Grama Setu 96\GramaSethuKt\app\src\main\res

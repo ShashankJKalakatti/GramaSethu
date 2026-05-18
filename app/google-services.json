@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "177826766555",
+    "project_id": "grama-sethu",
+    "storage_bucket": "grama-sethu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177826766555:android:6ec90e38cedc1f909a76fe",
+        "android_client_info": {
+          "package_name": "com.gramasethu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0T6wlA3HfXQ40BVWrTgYvRiiP8RWxN40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
